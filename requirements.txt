@@ -8,5 +8,4 @@ lime
 wordcloud
 chardet
 seaborn
-html
 re
