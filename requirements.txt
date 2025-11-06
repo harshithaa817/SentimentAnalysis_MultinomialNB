@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+lime
+wordcloud
+chardet
+seaborn
+html
+re
